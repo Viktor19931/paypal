@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/paypal/static/js/main.539f279b.chunk.js",
-    "main.js.map": "/paypal/static/js/main.539f279b.chunk.js.map",
+    "main.js": "/paypal/static/js/main.82a1a04e.chunk.js",
+    "main.js.map": "/paypal/static/js/main.82a1a04e.chunk.js.map",
     "runtime-main.js": "/paypal/static/js/runtime-main.b1088ad0.js",
     "runtime-main.js.map": "/paypal/static/js/runtime-main.b1088ad0.js.map",
     "static/js/2.06be5fff.chunk.js": "/paypal/static/js/2.06be5fff.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.b1088ad0.js",
     "static/js/2.06be5fff.chunk.js",
-    "static/js/main.539f279b.chunk.js"
+    "static/js/main.82a1a04e.chunk.js"
   ]
 }
